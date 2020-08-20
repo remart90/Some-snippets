@@ -1,1 +1,1 @@
-# Some-snippets
+Useful pieces of code.
