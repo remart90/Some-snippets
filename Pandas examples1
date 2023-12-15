@@ -1,0 +1,12 @@
+import pandas as pd
+import numpy as np
+
+pth = r'e:\Users\remezov_ab\Desktop\work\dataset.txt' # 'r' = 'raw' - в данном случае чтобы корректно считывались слеши
+
+#	id	animal	weight_kg	height_cm	date_of_birth	new_var
+#0	1	cat	5.0	50	2022-04-03	1.0
+#1	2	dog	15.0	80	2019-01-01	1.0
+#2	3	cat	3.0	45	2016-08-02	0.0
+#3	4	rabbit	6.0	35	2015-01-07	1.0
+#4	5	dog	45.0	90	2021-09-09	1.0
+
